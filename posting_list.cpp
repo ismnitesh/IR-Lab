@@ -239,6 +239,10 @@ void stemfile(char * string)
 }
 //----------------------- Stemmer Definition end ----------------------
 
+
+
+
+
 void print_list(map<string, vector<char*> > posting_list)
 {
 	FILE* fp;
