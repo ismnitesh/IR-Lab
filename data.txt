@@ -1,0 +1,167 @@
+ -> 	posting_list.cpp~ = 1	
+a -> 	posting_list.cpp~ = 13	stemmer.cpp = 13	brs.cpp = 13	prop.cpp~ = 13	brs.cpp~ = 13	stemmer.txt = 13	posting_list.cpp = 13	a.out = 279	vsm.cpp = 13	vsm.cpp~ = 13	
+ab -> 	posting_list.cpp~ = 3	stemmer.cpp = 3	brs.cpp = 3	posting_list.txt = 2	prop.cpp~ = 3	new.txt = 2	brs.cpp~ = 3	stemmer.txt = 3	posting_list.cpp = 3	vsm.cpp = 3	vsm.cpp~ = 3	
+abcd -> 	posting_list.cpp~ = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	
+abl -> 	posting_list.cpp~ = 1	stemmer.cpp = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	stemmer.txt = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	
+al -> 	posting_list.cpp~ = 5	stemmer.cpp = 5	brs.cpp = 5	posting_list.txt = 2	prop.cpp~ = 5	new.txt = 2	brs.cpp~ = 5	stemmer.txt = 5	posting_list.cpp = 5	vsm.cpp = 5	vsm.cpp~ = 5	
+alism -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+aliti -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+aliz -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+alli -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+anc -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+anci -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+and -> 	brs.cpp = 4	brs.cpp~ = 4	
+ant -> 	posting_list.cpp~ = 1	stemmer.cpp = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	stemmer.txt = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	
+at -> 	posting_list.cpp~ = 6	stemmer.cpp = 6	brs.cpp = 6	prop.cpp~ = 6	brs.cpp~ = 6	stemmer.txt = 6	posting_list.cpp = 6	vsm.cpp = 6	vsm.cpp~ = 6	
+ation -> 	posting_list.cpp~ = 4	stemmer.cpp = 4	brs.cpp = 4	posting_list.txt = 2	prop.cpp~ = 4	new.txt = 2	brs.cpp~ = 4	stemmer.txt = 4	posting_list.cpp = 4	vsm.cpp = 4	vsm.cpp~ = 4	
+ativ -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+ator -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+b -> 	posting_list.cpp~ = 1	stemmer.cpp = 1	brs.cpp = 1	prop.cpp~ = 1	brs.cpp~ = 1	stemmer.txt = 1	posting_list.cpp = 1	a.out = 23	vsm.cpp = 1	vsm.cpp~ = 1	
+begin -> 	posting_list.cpp~ = 1	brs.cpp = 3	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 3	posting_list.cpp = 1	vsm.cpp = 3	vsm.cpp~ = 3	
+biliti -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+bl -> 	posting_list.cpp~ = 1	stemmer.cpp = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	stemmer.txt = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	
+ble -> 	posting_list.cpp~ = 3	stemmer.cpp = 3	brs.cpp = 3	posting_list.txt = 2	prop.cpp~ = 3	new.txt = 2	brs.cpp~ = 3	stemmer.txt = 3	posting_list.cpp = 3	vsm.cpp = 3	vsm.cpp~ = 3	
+bli -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+break -> 	posting_list.cpp~ = 95	stemmer.cpp = 95	brs.cpp = 101	posting_list.txt = 2	prop.cpp~ = 95	new.txt = 2	brs.cpp~ = 101	stemmer.txt = 95	posting_list.cpp = 95	vsm.cpp = 95	vsm.cpp~ = 95	
+c -> 	posting_list.cpp~ = 5	stemmer.cpp = 5	brs.cpp = 5	prop.cpp~ = 5	brs.cpp~ = 5	stemmer.txt = 5	posting_list.cpp = 5	a.out = 100	vsm.cpp = 5	vsm.cpp~ = 5	
+case -> 	posting_list.cpp~ = 30	stemmer.cpp = 30	brs.cpp = 30	posting_list.txt = 2	prop.cpp~ = 30	new.txt = 2	brs.cpp~ = 30	stemmer.txt = 30	posting_list.cpp = 30	vsm.cpp = 30	vsm.cpp~ = 30	
+ch -> 	posting_list.cpp~ = 36	stemmer.cpp = 36	brs.cpp = 36	posting_list.txt = 2	prop.cpp~ = 36	new.txt = 2	brs.cpp~ = 36	stemmer.txt = 36	posting_list.cpp = 36	vsm.cpp = 36	vsm.cpp~ = 36	
+char -> 	posting_list.cpp~ = 25	stemmer.cpp = 18	brs.cpp = 30	posting_list.txt = 2	prop.cpp~ = 25	new.txt = 2	brs.cpp~ = 30	stemmer.txt = 18	posting_list.cpp = 25	vsm.cpp = 25	vsm.cpp~ = 25	
+clear -> 	posting_list.cpp~ = 3	brs.cpp = 3	posting_list.txt = 2	prop.cpp~ = 3	new.txt = 2	brs.cpp~ = 3	posting_list.cpp = 3	vsm.cpp = 3	vsm.cpp~ = 3	grep.cpp = 2	
+close -> 	posting_list.cpp~ = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	grep.cpp = 1	
+closedir -> 	posting_list.txt = 2	new.txt = 2	grep.cpp = 1	
+continu -> 	posting_list.cpp~ = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	grep.cpp = 1	
+count -> 	vsm.cpp = 1	vsm.cpp~ = 1	
+cout -> 	posting_list.txt = 2	new.txt = 2	grep.cpp = 1	
+cpp -> 	posting_list.txt = 422	new.txt = 835	
+d -> 	a.out = 255	
+data -> 	vsm.cpp = 4	vsm.cpp~ = 4	
+default -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+defin -> 	posting_list.cpp~ = 7	stemmer.cpp = 7	brs.cpp = 7	posting_list.txt = 2	prop.cpp~ = 7	new.txt = 2	brs.cpp~ = 7	stemmer.txt = 7	posting_list.cpp = 7	vsm.cpp = 7	vsm.cpp~ = 7	
+definit -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+dir -> 	posting_list.cpp~ = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	grep.cpp = 8	
+directori -> 	posting_list.txt = 2	new.txt = 2	a.out = 1	grep.cpp = 1	
+dirent -> 	posting_list.cpp~ = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	grep.cpp = 1	
+dn -> 	posting_list.cpp~ = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	grep.cpp = 1	
+e -> 	posting_list.cpp~ = 10	stemmer.cpp = 10	brs.cpp = 10	prop.cpp~ = 10	brs.cpp~ = 10	stemmer.txt = 10	posting_list.cpp = 10	a.out = 405	vsm.cpp = 10	vsm.cpp~ = 10	
+ed -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+eed -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+elf -> 	posting_list.txt = 2	new.txt = 2	a.out = 9	
+eli -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+ement -> 	posting_list.cpp~ = 1	stemmer.cpp = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	stemmer.txt = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	
+enc -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+enci -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+end -> 	posting_list.cpp~ = 62	stemmer.cpp = 58	brs.cpp = 63	posting_list.txt = 2	prop.cpp~ = 62	new.txt = 2	brs.cpp~ = 62	stemmer.txt = 58	posting_list.cpp = 63	vsm.cpp = 62	vsm.cpp~ = 62	
+endl -> 	posting_list.cpp~ = 4	brs.cpp = 4	posting_list.txt = 2	prop.cpp~ = 6	new.txt = 2	brs.cpp~ = 4	posting_list.cpp = 4	vsm.cpp = 4	vsm.cpp~ = 4	grep.cpp = 5	
+ent -> 	posting_list.cpp~ = 4	stemmer.cpp = 2	brs.cpp = 4	posting_list.txt = 2	prop.cpp~ = 4	new.txt = 2	brs.cpp~ = 4	stemmer.txt = 2	posting_list.cpp = 4	vsm.cpp = 4	vsm.cpp~ = 4	grep.cpp = 3	
+enter -> 	posting_list.cpp~ = 1	brs.cpp = 4	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 4	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	grep.cpp = 2	
+entli -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+er -> 	posting_list.cpp~ = 1	stemmer.cpp = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	stemmer.txt = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	
+et -> 	posting_list.txt = 2	new.txt = 2	a.out = 1	
+f -> 	a.out = 29	
+fal -> 	posting_list.txt = 2	new.txt = 4	
+fals -> 	posting_list.cpp~ = 15	stemmer.cpp = 15	brs.cpp = 15	prop.cpp~ = 15	brs.cpp~ = 15	stemmer.txt = 15	posting_list.cpp = 15	vsm.cpp = 15	vsm.cpp~ = 15	
+file -> 	posting_list.cpp~ = 3	stemmer.cpp = 2	brs.cpp = 4	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 4	stemmer.txt = 2	posting_list.cpp = 3	vsm.cpp = 4	vsm.cpp~ = 4	grep.cpp = 1	
+first -> 	vsm.cpp = 1	vsm.cpp~ = 1	
+flag -> 	posting_list.cpp~ = 5	brs.cpp = 12	posting_list.txt = 2	prop.cpp~ = 5	new.txt = 2	brs.cpp~ = 12	posting_list.cpp = 5	vsm.cpp = 5	vsm.cpp~ = 5	
+fp -> 	posting_list.cpp~ = 3	brs.cpp = 6	posting_list.txt = 2	new.txt = 2	brs.cpp~ = 6	posting_list.cpp = 3	vsm.cpp = 6	vsm.cpp~ = 6	
+fstem -> 	posting_list.cpp~ = 1	stemmer.cpp = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	stemmer.txt = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	
+ful -> 	posting_list.cpp~ = 5	stemmer.cpp = 5	brs.cpp = 5	posting_list.txt = 2	prop.cpp~ = 5	new.txt = 2	brs.cpp~ = 5	stemmer.txt = 5	posting_list.cpp = 5	vsm.cpp = 5	vsm.cpp~ = 5	
+g -> 	posting_list.cpp~ = 1	stemmer.cpp = 1	brs.cpp = 1	prop.cpp~ = 1	brs.cpp~ = 1	stemmer.txt = 1	posting_list.cpp = 1	a.out = 142	vsm.cpp = 1	vsm.cpp~ = 1	
+h -> 	posting_list.cpp~ = 2	brs.cpp = 2	prop.cpp~ = 2	brs.cpp~ = 2	posting_list.cpp = 2	a.out = 35	vsm.cpp = 2	vsm.cpp~ = 2	grep.cpp = 1	
+hh -> 	posting_list.txt = 2	new.txt = 2	a.out = 2	
+hp -> 	a.out = 1	
+hr -> 	a.out = 1	
+i -> 	posting_list.cpp~ = 70	stemmer.cpp = 65	brs.cpp = 81	prop.cpp~ = 71	brs.cpp~ = 81	stemmer.txt = 65	posting_list.cpp = 70	a.out = 57	vsm.cpp = 71	vsm.cpp~ = 70	
+ibl -> 	posting_list.cpp~ = 1	stemmer.cpp = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	stemmer.txt = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	
+ic -> 	posting_list.cpp~ = 4	stemmer.cpp = 4	brs.cpp = 4	posting_list.txt = 2	prop.cpp~ = 4	new.txt = 2	brs.cpp~ = 4	stemmer.txt = 4	posting_list.cpp = 4	vsm.cpp = 4	vsm.cpp~ = 4	
+ical -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+icat -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+iciti -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+if -> 	posting_list.cpp~ = 1	brs.cpp = 1	prop.cpp~ = 1	brs.cpp~ = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	
+ifstream -> 	posting_list.cpp~ = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	grep.cpp = 1	
+inc -> 	posting_list.cpp~ = 5	stemmer.cpp = 5	brs.cpp = 5	prop.cpp~ = 5	brs.cpp~ = 5	stemmer.txt = 5	posting_list.cpp = 5	vsm.cpp = 5	vsm.cpp~ = 5	
+includ -> 	posting_list.txt = 2	new.txt = 2	grep.cpp = 1	
+ing -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+input -> 	posting_list.txt = 2	new.txt = 2	grep.cpp = 1	
+int -> 	posting_list.cpp~ = 37	stemmer.cpp = 30	brs.cpp = 44	posting_list.txt = 2	prop.cpp~ = 37	new.txt = 2	brs.cpp~ = 44	stemmer.txt = 30	posting_list.cpp = 37	vsm.cpp = 45	vsm.cpp~ = 45	grep.cpp = 1	
+ion -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+ism -> 	posting_list.cpp~ = 1	stemmer.cpp = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	stemmer.txt = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	
+istringstream -> 	posting_list.cpp~ = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	grep.cpp = 1	
+it -> 	posting_list.cpp~ = 2	brs.cpp = 11	prop.cpp~ = 2	brs.cpp~ = 11	posting_list.cpp = 2	vsm.cpp = 4	vsm.cpp~ = 4	
+iter -> 	posting_list.cpp~ = 2	brs.cpp = 6	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 6	posting_list.cpp = 2	vsm.cpp = 5	vsm.cpp~ = 5	
+iti -> 	posting_list.cpp~ = 1	stemmer.cpp = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	stemmer.txt = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	
+itr -> 	vsm.cpp = 2	vsm.cpp~ = 2	
+iv -> 	posting_list.cpp~ = 5	stemmer.cpp = 5	brs.cpp = 5	posting_list.txt = 2	prop.cpp~ = 5	new.txt = 2	brs.cpp~ = 5	stemmer.txt = 5	posting_list.cpp = 5	vsm.cpp = 5	vsm.cpp~ = 5	
+iviti -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+iz -> 	posting_list.cpp~ = 5	stemmer.cpp = 5	brs.cpp = 5	posting_list.txt = 2	prop.cpp~ = 5	new.txt = 2	brs.cpp~ = 5	stemmer.txt = 5	posting_list.cpp = 5	vsm.cpp = 5	vsm.cpp~ = 5	
+izat -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+izer -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+j -> 	posting_list.cpp~ = 28	stemmer.cpp = 28	brs.cpp = 36	prop.cpp~ = 28	brs.cpp~ = 36	stemmer.txt = 28	posting_list.cpp = 28	a.out = 9	vsm.cpp = 28	vsm.cpp~ = 28	
+k -> 	posting_list.cpp~ = 53	stemmer.cpp = 53	brs.cpp = 53	prop.cpp~ = 53	brs.cpp~ = 53	stemmer.txt = 53	posting_list.cpp = 53	a.out = 37	vsm.cpp = 53	vsm.cpp~ = 53	
+l -> 	posting_list.cpp~ = 7	stemmer.cpp = 7	brs.cpp = 7	prop.cpp~ = 7	brs.cpp~ = 7	stemmer.txt = 7	posting_list.cpp = 7	a.out = 74	vsm.cpp = 7	vsm.cpp~ = 7	
+length -> 	posting_list.cpp~ = 17	stemmer.cpp = 16	brs.cpp = 17	posting_list.txt = 2	prop.cpp~ = 17	new.txt = 2	brs.cpp~ = 17	stemmer.txt = 16	posting_list.cpp = 17	vsm.cpp = 17	vsm.cpp~ = 17	
+line -> 	posting_list.cpp~ = 6	brs.cpp = 6	posting_list.txt = 2	prop.cpp~ = 6	new.txt = 2	brs.cpp~ = 6	posting_list.cpp = 6	vsm.cpp = 6	vsm.cpp~ = 6	
+list -> 	posting_list.cpp~ = 4	brs.cpp = 8	posting_list.txt = 2	prop.cpp~ = 4	new.txt = 2	brs.cpp~ = 8	posting_list.cpp = 4	vsm.cpp = 4	vsm.cpp~ = 4	
+log -> 	posting_list.cpp~ = 1	stemmer.cpp = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	stemmer.txt = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	
+logi -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+m -> 	posting_list.cpp~ = 20	stemmer.cpp = 20	brs.cpp = 20	prop.cpp~ = 20	brs.cpp~ = 20	stemmer.txt = 20	posting_list.cpp = 20	a.out = 41	vsm.cpp = 20	vsm.cpp~ = 20	
+main -> 	posting_list.cpp~ = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	grep.cpp = 2	
+malloc -> 	posting_list.cpp~ = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	
+max -> 	posting_list.cpp~ = 8	stemmer.cpp = 8	brs.cpp = 8	posting_list.txt = 2	prop.cpp~ = 8	new.txt = 2	brs.cpp~ = 8	stemmer.txt = 8	posting_list.cpp = 8	vsm.cpp = 8	vsm.cpp~ = 8	
+ment -> 	posting_list.cpp~ = 1	stemmer.cpp = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	stemmer.txt = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	
+myfil -> 	posting_list.cpp~ = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+n -> 	posting_list.cpp~ = 10	stemmer.cpp = 7	brs.cpp = 14	posting_list.txt = 1	prop.cpp~ = 7	brs.cpp~ = 14	stemmer.txt = 8	posting_list.cpp = 10	a.out = 25	vsm.cpp = 13	vsm.cpp~ = 13	
+name -> 	posting_list.cpp~ = 12	brs.cpp = 12	prop.cpp~ = 12	brs.cpp~ = 12	posting_list.cpp = 12	vsm.cpp = 13	vsm.cpp~ = 13	grep.cpp = 5	
+namespac -> 	posting_list.cpp~ = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	grep.cpp = 1	
+ness -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+null -> 	posting_list.cpp~ = 4	brs.cpp = 4	posting_list.txt = 2	prop.cpp~ = 4	new.txt = 2	brs.cpp~ = 4	posting_list.cpp = 4	a.out = 1	vsm.cpp = 4	vsm.cpp~ = 4	grep.cpp = 4	
+o -> 	posting_list.cpp~ = 3	stemmer.cpp = 3	brs.cpp = 3	prop.cpp~ = 3	brs.cpp~ = 3	stemmer.txt = 3	posting_list.cpp = 3	a.out = 183	vsm.cpp = 3	vsm.cpp~ = 3	
+or -> 	brs.cpp = 4	brs.cpp~ = 4	
+ou -> 	posting_list.cpp~ = 4	stemmer.cpp = 4	brs.cpp = 4	posting_list.txt = 4	prop.cpp~ = 4	new.txt = 4	brs.cpp~ = 4	stemmer.txt = 4	posting_list.cpp = 4	vsm.cpp = 4	vsm.cpp~ = 4	
+ous -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	prop.cpp~ = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+ousli -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+out -> 	posting_list.txt = 47	prop.cpp~ = 1	new.txt = 51	brs.cpp~ = 1	
+p -> 	posting_list.cpp~ = 3	stemmer.cpp = 3	brs.cpp = 3	prop.cpp~ = 3	brs.cpp~ = 3	stemmer.txt = 3	posting_list.cpp = 3	a.out = 28	vsm.cpp = 3	vsm.cpp~ = 3	
+pat -> 	posting_list.cpp~ = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	grep.cpp = 2	
+ptrh -> 	a.out = 1	
+q -> 	a.out = 409	
+r -> 	posting_list.cpp~ = 31	stemmer.cpp = 31	brs.cpp = 31	prop.cpp~ = 31	brs.cpp~ = 31	stemmer.txt = 31	posting_list.cpp = 31	a.out = 13	vsm.cpp = 31	vsm.cpp~ = 31	
+readdir -> 	posting_list.txt = 2	new.txt = 2	grep.cpp = 1	
+return -> 	posting_list.cpp~ = 38	stemmer.cpp = 36	brs.cpp = 39	posting_list.txt = 2	prop.cpp~ = 38	new.txt = 3	brs.cpp~ = 39	stemmer.txt = 35	posting_list.cpp = 38	vsm.cpp = 38	vsm.cpp~ = 39	grep.cpp = 3	
+s -> 	posting_list.cpp~ = 35	stemmer.cpp = 31	brs.cpp = 38	prop.cpp~ = 32	brs.cpp~ = 38	stemmer.txt = 31	posting_list.cpp = 35	a.out = 21	vsm.cpp = 39	vsm.cpp~ = 39	
+second -> 	vsm.cpp = 2	vsm.cpp~ = 2	
+set -> 	brs.cpp = 4	new.txt = 2	brs.cpp~ = 4	
+setto -> 	posting_list.cpp~ = 5	stemmer.cpp = 5	brs.cpp = 5	posting_list.txt = 2	prop.cpp~ = 5	new.txt = 2	brs.cpp~ = 5	stemmer.txt = 5	posting_list.cpp = 5	vsm.cpp = 5	vsm.cpp~ = 5	
+size -> 	posting_list.cpp~ = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	
+ss -> 	posting_list.cpp~ = 3	stemmer.cpp = 3	brs.cpp = 3	posting_list.txt = 2	prop.cpp~ = 3	new.txt = 2	brs.cpp~ = 3	stemmer.txt = 3	posting_list.cpp = 3	vsm.cpp = 3	vsm.cpp~ = 3	
+start -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+static -> 	posting_list.cpp~ = 4	stemmer.cpp = 4	brs.cpp = 4	posting_list.txt = 2	prop.cpp~ = 4	new.txt = 2	brs.cpp~ = 4	stemmer.txt = 4	posting_list.cpp = 4	vsm.cpp = 4	vsm.cpp~ = 4	
+std -> 	posting_list.cpp~ = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	grep.cpp = 1	
+stemmer -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+step -> 	posting_list.cpp~ = 13	stemmer.cpp = 13	brs.cpp = 13	posting_list.txt = 2	prop.cpp~ = 13	new.txt = 2	brs.cpp~ = 13	stemmer.txt = 13	posting_list.cpp = 13	vsm.cpp = 13	vsm.cpp~ = 13	
+str -> 	posting_list.cpp~ = 3	brs.cpp = 4	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 4	posting_list.cpp = 3	vsm.cpp = 4	vsm.cpp~ = 4	grep.cpp = 2	
+string -> 	posting_list.cpp~ = 9	stemmer.cpp = 2	brs.cpp = 15	posting_list.txt = 2	prop.cpp~ = 9	new.txt = 2	brs.cpp~ = 15	stemmer.txt = 2	posting_list.cpp = 9	vsm.cpp = 12	vsm.cpp~ = 12	grep.cpp = 2	
+struct -> 	posting_list.cpp~ = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	grep.cpp = 1	
+switch -> 	posting_list.cpp~ = 4	stemmer.cpp = 4	brs.cpp = 4	posting_list.txt = 2	prop.cpp~ = 4	new.txt = 2	brs.cpp~ = 4	stemmer.txt = 4	posting_list.cpp = 4	vsm.cpp = 4	vsm.cpp~ = 4	
+t -> 	posting_list.cpp~ = 3	stemmer.cpp = 3	brs.cpp = 3	prop.cpp~ = 4	brs.cpp~ = 3	stemmer.txt = 3	posting_list.cpp = 3	a.out = 226	vsm.cpp = 3	vsm.cpp~ = 3	
+temp -> 	posting_list.txt = 2	new.txt = 2	grep.cpp = 4	
+tion -> 	posting_list.cpp~ = 1	stemmer.cpp = 1	brs.cpp = 1	posting_list.txt = 2	prop.cpp~ = 1	new.txt = 2	brs.cpp~ = 1	stemmer.txt = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	
+tional -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	posting_list.txt = 2	prop.cpp~ = 2	new.txt = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	vsm.cpp = 2	vsm.cpp~ = 2	
+true -> 	posting_list.cpp~ = 24	stemmer.cpp = 24	brs.cpp = 24	posting_list.txt = 2	prop.cpp~ = 24	new.txt = 2	brs.cpp~ = 24	stemmer.txt = 24	posting_list.cpp = 24	vsm.cpp = 24	vsm.cpp~ = 24	
+txt -> 	posting_list.cpp~ = 1	brs.cpp = 1	posting_list.txt = 102	prop.cpp~ = 1	new.txt = 347	brs.cpp~ = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	
+u -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	prop.cpp~ = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	a.out = 49	vsm.cpp = 2	vsm.cpp~ = 2	
+ubuntu -> 	posting_list.txt = 2	new.txt = 2	a.out = 16	
+us -> 	posting_list.cpp~ = 1	brs.cpp = 1	prop.cpp~ = 1	brs.cpp~ = 1	posting_list.cpp = 1	vsm.cpp = 1	vsm.cpp~ = 1	grep.cpp = 1	
+v -> 	posting_list.cpp~ = 1	stemmer.cpp = 1	brs.cpp = 1	prop.cpp~ = 1	brs.cpp~ = 1	stemmer.txt = 1	posting_list.cpp = 1	a.out = 204	vsm.cpp = 1	vsm.cpp~ = 1	
+valid -> 	posting_list.txt = 2	new.txt = 2	a.out = 22	
+void -> 	posting_list.cpp~ = 11	stemmer.cpp = 10	brs.cpp = 13	posting_list.txt = 2	prop.cpp~ = 11	new.txt = 2	brs.cpp~ = 13	stemmer.txt = 10	posting_list.cpp = 11	vsm.cpp = 12	vsm.cpp~ = 12	
+vowelinstem -> 	posting_list.cpp~ = 6	stemmer.cpp = 6	brs.cpp = 6	posting_list.txt = 2	prop.cpp~ = 6	new.txt = 2	brs.cpp~ = 6	stemmer.txt = 6	posting_list.cpp = 6	vsm.cpp = 6	vsm.cpp~ = 6	
+vs -> 	posting_list.txt = 2	new.txt = 2	a.out = 6	
+w -> 	posting_list.cpp~ = 3	stemmer.cpp = 2	brs.cpp = 4	prop.cpp~ = 2	brs.cpp~ = 4	stemmer.txt = 2	posting_list.cpp = 3	a.out = 7	vsm.cpp = 4	vsm.cpp~ = 4	
+word -> 	posting_list.cpp~ = 12	brs.cpp = 28	posting_list.txt = 2	prop.cpp~ = 11	new.txt = 2	brs.cpp~ = 28	posting_list.cpp = 12	vsm.cpp = 12	vsm.cpp~ = 12	grep.cpp = 3	
+x -> 	posting_list.cpp~ = 2	stemmer.cpp = 2	brs.cpp = 2	prop.cpp~ = 2	brs.cpp~ = 2	stemmer.txt = 2	posting_list.cpp = 2	a.out = 9	vsm.cpp = 2	vsm.cpp~ = 2	
+y -> 	posting_list.cpp~ = 4	stemmer.cpp = 4	brs.cpp = 4	prop.cpp~ = 4	brs.cpp~ = 4	stemmer.txt = 4	posting_list.cpp = 4	a.out = 44	vsm.cpp = 4	vsm.cpp~ = 4	
+yik -> 	posting_list.txt = 2	new.txt = 2	a.out = 9	
+yu -> 	posting_list.txt = 2	new.txt = 2	a.out = 1	
+z -> 	posting_list.cpp~ = 6	stemmer.cpp = 6	brs.cpp = 6	prop.cpp~ = 6	brs.cpp~ = 6	stemmer.txt = 6	posting_list.cpp = 6	a.out = 3	vsm.cpp = 6	vsm.cpp~ = 6	

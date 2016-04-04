@@ -1,0 +1,153 @@
+ -> 	stemmer.cpp 
+a -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+ab -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+abcd -> 	prop.cpp~ posting_list.cpp 
+abl -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+al -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+alism -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+aliti -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+aliz -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+alli -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+anc -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+anci -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+ant -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+at -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+ation -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+ativ -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+ator -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+b -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+begin -> 	prop.cpp~ posting_list.cpp 
+biliti -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+bl -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+ble -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+bli -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+break -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+c -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+case -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+ch -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+char -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+clear -> 	prop.cpp~ posting_list.cpp grep.cpp 
+close -> 	prop.cpp~ posting_list.cpp grep.cpp 
+closedir -> 	grep.cpp 
+continu -> 	prop.cpp~ posting_list.cpp grep.cpp 
+cout -> 	grep.cpp 
+d -> 	a.out 
+default -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+defin -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+definit -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+dir -> 	prop.cpp~ posting_list.cpp grep.cpp 
+directori -> 	a.out grep.cpp 
+dirent -> 	prop.cpp~ posting_list.cpp grep.cpp 
+dn -> 	prop.cpp~ posting_list.cpp grep.cpp 
+e -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+ed -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+eed -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+elf -> 	a.out 
+eli -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+ement -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+enc -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+enci -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+end -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+endl -> 	prop.cpp~ posting_list.cpp grep.cpp 
+ent -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp grep.cpp 
+enter -> 	prop.cpp~ posting_list.cpp grep.cpp 
+entli -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+er -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+et -> 	a.out 
+f -> 	a.out 
+fals -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+file -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp grep.cpp 
+flag -> 	prop.cpp~ posting_list.cpp 
+fp -> 	posting_list.cpp 
+fstem -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+ful -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+g -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+h -> 	prop.cpp~ posting_list.cpp a.out grep.cpp 
+hh -> 	a.out 
+i -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+ibl -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+ic -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+ical -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+icat -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+iciti -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+if -> 	prop.cpp~ posting_list.cpp 
+ifstream -> 	prop.cpp~ posting_list.cpp grep.cpp 
+inc -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+includ -> 	grep.cpp 
+ing -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+input -> 	grep.cpp 
+int -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp grep.cpp 
+ion -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+ism -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+istringstream -> 	prop.cpp~ posting_list.cpp grep.cpp 
+it -> 	prop.cpp~ posting_list.cpp 
+iter -> 	prop.cpp~ posting_list.cpp 
+iti -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+iv -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+iviti -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+iz -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+izat -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+izer -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+j -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+k -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+l -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+length -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+line -> 	prop.cpp~ posting_list.cpp 
+list -> 	prop.cpp~ posting_list.cpp 
+log -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+logi -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+m -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+main -> 	prop.cpp~ posting_list.cpp grep.cpp 
+malloc -> 	prop.cpp~ posting_list.cpp 
+max -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+ment -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+myfil -> 	prop.cpp~ posting_list.cpp 
+n -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+name -> 	prop.cpp~ posting_list.cpp grep.cpp 
+namespac -> 	prop.cpp~ posting_list.cpp grep.cpp 
+ness -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+null -> 	prop.cpp~ posting_list.cpp a.out grep.cpp 
+o -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+ou -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+ous -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+ousli -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+p -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+pat -> 	prop.cpp~ posting_list.cpp grep.cpp 
+q -> 	a.out 
+r -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+readdir -> 	grep.cpp 
+return -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp grep.cpp 
+s -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+setto -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+size -> 	prop.cpp~ posting_list.cpp 
+ss -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+start -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+static -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+std -> 	prop.cpp~ posting_list.cpp grep.cpp 
+stemmer -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+step -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+str -> 	prop.cpp~ posting_list.cpp grep.cpp 
+string -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp grep.cpp 
+struct -> 	prop.cpp~ posting_list.cpp grep.cpp 
+switch -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+t -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+temp -> 	grep.cpp 
+tion -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+tional -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+true -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+txt -> 	prop.cpp~ posting_list.cpp 
+u -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+ubuntu -> 	a.out 
+us -> 	prop.cpp~ posting_list.cpp grep.cpp 
+v -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+valid -> 	a.out 
+void -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+vowelinstem -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp 
+vs -> 	a.out 
+w -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+word -> 	prop.cpp~ posting_list.cpp grep.cpp 
+x -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+y -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
+yik -> 	a.out 
+yu -> 	a.out 
+z -> 	stemmer.cpp prop.cpp~ stemmer.txt posting_list.cpp a.out 
